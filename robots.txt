@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://lironsoffer.github.io/sitemap.xml
