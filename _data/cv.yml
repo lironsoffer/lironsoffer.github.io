@@ -1,189 +1,120 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Liron Soffer
+  label: AI/ML Engineer & Researcher
+  email: liron.soffer1@gmail.com
+  location: Tel Aviv, Israel
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: AI/ML Engineer and M.Sc. researcher at Tel Aviv University, focused on interpretability and concept understanding in LLMs. Former Risk Team Lead at Sunbit with 5+ years of industry experience in machine learning, financial risk, and GenAI.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: liron-soffer
+    - network: GitHub
+      username: lironsoffer
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Tel Aviv University
+        location: Tel Aviv, Israel
+        area: Industrial Engineering
+        studyType: M.Sc.
+        start_date: 2025
+        end_date: present
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Advisor: Dr. Chen Shani"
+          - "Research: Interpretability and concept understanding in LLMs"
+          - "Paper accepted to ICLR 2026: \"From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning\""
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Technion – Israel Institute of Technology
+        location: Haifa, Israel
+        area: Industrial Engineering – Business Information Systems
+        studyType: B.Sc.
+        start_date: 2015
+        end_date: 2020
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Minor: Entrepreneurship"
+          - "Special Courses: Artificial Intelligence, Machine Learning, Deep Learning"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Sunbit
+        position: Innovation AI/ML Engineer (AI/ML Guild Tech Lead)
+        location: Tel Aviv, Israel
+        start_date: 2025
+        end_date: 2025
+        summary: Joined the newly formed Innovation Team focused on GenAI as the group's AI/ML lead.
         highlights:
-          - Relativity
-          - Description 2.
+          - Guided the team's transition into a larger task force with additional data scientists and developers.
+          - Co-designed and implemented an agentic LLM workflow that delivers automated, context-aware response suggestions for call-center representatives.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Sunbit
+        position: Risk Team Lead
+        location: Tel Aviv, Israel
+        start_date: 2022
+        end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - Led a cross-functional team of backend Python engineers, data analysts, and AI/ML engineers to manage financial risk.
+          - Collaborated with business and senior leadership to ensure risk management strategies align with evolving business needs.
+          - Developed a transformer model on financial data, leveraging large-scale pretraining and fine-tuning to assess customer default probability.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Sunbit
+        position: Data Scientist | AI/ML Engineer
+        location: Tel Aviv, Israel
+        start_date: 2020
+        end_date: 2022
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Developed and deployed a 2D-Autoregressive ML model to predict loan loss and cash-on-cash returns for the entire loan portfolio.
+          - Owned the end-to-end solution, from data ingestion and feature engineering to production deployment.
+          - Built an interactive Streamlit dashboard to enable business stakeholders to visualize and act on predictive insights.
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Cyber Analytics
+        position: Data Scientist
+        location: Israel
+        start_date: 2019
+        end_date: 2020
+        highlights:
+          - Designed and implemented end-to-end ML solutions, managing the full lifecycle from data collection and modeling to feature engineering, algorithm selection, and evaluation.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Chen Shani
+          - Liron Soffer
+          - Dan Jurafsky
+          - Yann LeCun
+          - Ravid Shwartz-Ziv
+        publisher: "ICLR 2026"
+        releaseDate: 2025
+        url: https://arxiv.org/abs/2505.17117
+        summary: Applies an Information Bottleneck framework to examine how LLMs trade compression for semantic meaning, comparing them against human conceptual structures.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+    Projects:
+      - name: GenAI Curation Challenge (Baot × Immunai)
+        start_date: 2025
+        end_date: 2025
+        summary: Collaborated in a 10-member cross-functional team to build an LLM-based agentic flow for extracting metadata from RNA-seq studies.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - name: Speaker at PyCon Israel
+        start_date: 2022
+        end_date: 2022
+        summary: "Delivered a talk on \"Web Apps for Data Science Using Streamlit,\" demonstrating how to build interactive web applications for ML and data analytics."
+
+      - name: GANILLA Implementation
+        start_date: 2020
+        end_date: 2020
+        summary: Implemented the paper "GANILLA – Generative Adversarial Networks for Image to Illustration Translation" as a personal project exploring generative models.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming & Tools
+        icon: fa-solid fa-code
+        keywords: "Python, SQL, MongoDB, Git, Docker, Kubernetes, Streamlit"
+
+      - name: Machine Learning & AI
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, Hugging Face, Sklearn, Pandas, Transformer Models, LangChain, LangGraph"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Hebrew
+        summary: "Native"
 
       - name: English
         summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
