@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  MSc student at <a href='https://www.tau.ac.il'>Tel Aviv University</a>.
+  M.Sc. student at <a href='https://www.tau.ac.il'>Tel Aviv University</a> &middot; AI/ML Engineer
 
 profile:
   align: right
@@ -20,8 +20,8 @@ latest_posts:
   enabled: false
 ---
 
-I am an MSc student at Tel Aviv University, working on machine learning and computer vision research. My work focuses on [your research interests here].
+I am an M.Sc. student in Industrial Engineering at [Tel Aviv University](https://www.tau.ac.il), advised by [Dr. Chen Shani](https://chensha.ni). My research focuses on interpretability and concept understanding in large language models — specifically, how LLMs represent and compress meaning compared to human cognition.
 
-I am interested in [topic A], [topic B], and [topic C]. I am advised by [your advisor's name].
+My paper [*From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning*](https://arxiv.org/abs/2505.17117) (with Chen Shani, Dan Jurafsky, Yann LeCun, and Ravid Shwartz-Ziv) has been accepted to **ICLR 2026**.
 
-Before my MSc, I completed my BSc in [your undergraduate degree] at [institution]. Feel free to reach out via email or connect on LinkedIn.
+Before my M.Sc., I spent five years at [Sunbit](https://sunbit.com) as an AI/ML engineer and later Risk Team Lead, where I built production ML systems for financial risk and led a GenAI innovation team. I hold a B.Sc. in Industrial Engineering – Business Information Systems from the [Technion](https://www.technion.ac.il).
