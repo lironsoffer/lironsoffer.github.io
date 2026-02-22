@@ -20,7 +20,7 @@ latest_posts:
   enabled: false
 ---
 
-I am an M.Sc. student in Industrial Engineering at [Tel Aviv University](https://www.tau.ac.il), advised by [Dr. Chen Shani](https://sites.google.com/mail.huji.ac.il/dr-chen-shani). My research focuses on interpretability and concept understanding in large language models — specifically, how LLMs represent and compress meaning compared to human cognition.
+I am an M.Sc. student in Industrial Engineering at [Tel Aviv University](https://www.tau.ac.il), advised by [Dr. Chen Shani](https://sites.google.com/mail.huji.ac.il/dr-chen-shani). My research focuses on interpretability and concept understanding in large language models, specifically, how LLMs represent and compress meaning compared to human cognition.
 
 My paper [_From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning_](https://arxiv.org/abs/2505.17117) (with Chen Shani, Dan Jurafsky, Yann LeCun, and Ravid Shwartz-Ziv) has been accepted to **ICLR 2026**.
 
