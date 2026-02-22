@@ -19,11 +19,10 @@ cv:
         area: Industrial Engineering
         studyType: M.Sc.
         start_date: 2025
-        end_date: present
         highlights:
           - "Advisor: Dr. Chen Shani"
           - "Research: Interpretability and concept understanding in LLMs"
-          - "Paper accepted to ICLR 2026: \"From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning\""
+          - 'Paper accepted to ICLR 2026: "From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning"'
 
       - institution: Technion – Israel Institute of Technology
         location: Haifa, Israel
@@ -83,7 +82,7 @@ cv:
           - Yann LeCun
           - Ravid Shwartz-Ziv
         publisher: "ICLR 2026"
-        releaseDate: 2025
+        releaseDate: "2025-05-22"
         url: https://arxiv.org/abs/2505.17117
         summary: Applies an Information Bottleneck framework to examine how LLMs trade compression for semantic meaning, comparing them against human conceptual structures.
 
@@ -96,7 +95,7 @@ cv:
       - name: Speaker at PyCon Israel
         start_date: 2022
         end_date: 2022
-        summary: "Delivered a talk on \"Web Apps for Data Science Using Streamlit,\" demonstrating how to build interactive web applications for ML and data analytics."
+        summary: 'Delivered a talk on "Web Apps for Data Science Using Streamlit," demonstrating how to build interactive web applications for ML and data analytics.'
 
       - name: GANILLA Implementation
         start_date: 2020
