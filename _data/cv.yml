@@ -40,9 +40,9 @@ cv:
         location: Tel Aviv, Israel
         start_date: 2025
         end_date: 2025
-        summary: Joined the newly formed Innovation Team focused on GenAI as the group's AI/ML lead.
+        summary: Joined the newly formed Innovation Team focused on GenAI as the group's AI/ML engineer.
         highlights:
-          - Guided the team's transition into a larger task force with additional data scientists and developers.
+          - Part of the team's transition into a larger task force with additional data scientists and developers.
           - Co-designed and implemented an agentic LLM workflow that delivers automated, context-aware response suggestions for call-center representatives.
 
       - company: Sunbit
